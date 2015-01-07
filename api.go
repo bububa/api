@@ -1,11 +1,11 @@
 package api
 
 import (
-	_ "github.com/qiniu/api/auth/digest"
-	_ "github.com/qiniu/api/conf"
-	_ "github.com/qiniu/api/fop"
-	_ "github.com/qiniu/api/io"
-	_ "github.com/qiniu/api/resumable/io"
-	_ "github.com/qiniu/api/rs"
-	_ "github.com/qiniu/api/url"
+	_ "github.com/bububa/qiniu/auth/digest"
+	_ "github.com/bububa/qiniu/conf"
+	_ "github.com/bububa/qiniu/fop"
+	_ "github.com/bububa/qiniu/io"
+	_ "github.com/bububa/qiniu/resumable/io"
+	_ "github.com/bububa/qiniu/rs"
+	_ "github.com/bububa/qiniu/url"
 )

@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"strings"
 
-	. "github.com/qiniu/api/conf"
-	"github.com/qiniu/rpc"
+	. "github.com/bububa/qiniu/conf"
+	"github.com/bububa/qiniu/rpc"
 )
 
 // ----------------------------------------------------------
