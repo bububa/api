@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	. "github.com/qiniu/api/conf"
+	. "github.com/bububa/qiniu/conf"
 )
 
 func init() {
